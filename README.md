@@ -3,6 +3,7 @@
 A package that provides class component support for React Router v6 and enables navigation with additional props. Now You can navigate to other screens with `data` using the `navigate` method.
 
 ## Requirement
+
 React Router v6 must be installed.
 
 ## Installation
@@ -29,9 +30,9 @@ npm install @adityaindiadev/react-router-v6-class-props
 
    // Wrap your component using withReactRouterProps
    export default withReactRouterProps(Home);
-    ```
+   ```
 
- 2. **Navigate with `Props`:**
+2. **Navigate with `Props`:**
 
    After wrapping your component using withReactRouterProps, you can navigate to other screens with `data` using the `navigate` method:
 
@@ -57,11 +58,11 @@ npm install @adityaindiadev/react-router-v6-class-props
         render() {
             // ...
         }
-    } 
-  export default withReactRouterProps(Home);
+   }
+   export default withReactRouterProps(Home);
    ```
 
- 2. **Access Navigated Data:**
+3. **Access Navigated Data:**
 
    In the destination component, you can access the passed data using `this.props.location.state`:
 
