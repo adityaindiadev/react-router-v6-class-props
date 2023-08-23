@@ -1,6 +1,6 @@
 {
   "name": "@adityaindiadev/react-router-v6-class-props",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A package that provides class component support for React Router v6 and enables navigation with additional props.",
   "main": "index.js",
   "scripts": {
