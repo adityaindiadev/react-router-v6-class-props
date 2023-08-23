@@ -1,0 +1,30 @@
+{
+  "name": "@adityaindiadev/react-router-v6-class-props",
+  "version": "1.0.0",
+  "description": "A package that provides class component support for React Router v6 and enables navigation with additional props.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityaindiadev/react-router-v6-class-props.git"
+  },
+  "keywords": [
+    "react-router-v6",
+    "react-router-v6-class",
+    "react-router-v6-class-component",
+    "react-router-v6-class-props",
+    "react-router-v6-class-support",
+    "react-router-v6 for class component",
+    "react router v6 for class component",
+    "react router v6 navigation props",
+    "react router v6 for class param"
+  ],
+  "author": "https://github.com/adityaindiadev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityaindiadev/react-router-v6-class-props/issues"
+  },
+  "homepage": "https://github.com/adityaindiadev/react-router-v6-class-props#readme"
+}
