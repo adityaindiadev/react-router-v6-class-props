@@ -85,3 +85,9 @@ npm install @adityaindiadev/react-router-v6-class-props
     export default withReactRouterProps(About);
 
    ```
+
+## License
+
+MIT
+
+---
