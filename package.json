@@ -1,6 +1,6 @@
 {
-  "name": "@adityaindiadev/react-router-v6-class-props",
-  "version": "2.1.0",
+  "name": "react-router-v6-class-props",
+  "version": "1.2.0",
   "description": "A package that provides class component support for React Router v6 and enables navigation with additional props. Now You can navigate to other screens with `data` using the `navigate` method.",
   "main": "index.js",
   "scripts": {

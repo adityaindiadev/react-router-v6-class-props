@@ -1,6 +1,10 @@
-# @adityaindiadev/react-router-v6-class-props
+# react-router-v6-class-props
 
 A package that provides class component support for React Router v6 and enables navigation with additional props. Now You can navigate to other screens with `data` using the `navigate` method.
+
+## Developed By
+
+`Aditya Gupta` &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/aditya-gupta-india/)&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/adityaindiadev)
 
 ## Requirement
 
@@ -11,7 +15,7 @@ React Router v6 must be installed.
 Install the package using npm:
 
 ```sh
-npm install @adityaindiadev/react-router-v6-class-props
+npm install react-router-v6-class-props
 ```
 
 ## Usage
@@ -22,7 +26,7 @@ npm install @adityaindiadev/react-router-v6-class-props
 
    ```jsx
    import React from 'react';
-   import { withReactRouterProps } from '@adityaindiadev/react-router-v6-class-props';
+   import { withReactRouterProps } from 'react-router-v6-class-props';
 
    class Home extends React.Component {
      // ...
@@ -38,7 +42,7 @@ npm install @adityaindiadev/react-router-v6-class-props
 
    ```jsx
    import React from 'react';
-   import { withReactRouterProps } from '@adityaindiadev/react-router-v6-class-props';
+   import { withReactRouterProps } from 'react-router-v6-class-props';
 
    class Home extends React.Component {
 
@@ -68,7 +72,7 @@ npm install @adityaindiadev/react-router-v6-class-props
 
    ```jsx
    import React from 'react';
-   import { withReactRouterProps } from '@adityaindiadev/react-router-v6-class-props';
+   import { withReactRouterProps } from 'react-router-v6-class-props';
 
     class About extends React.Component {
         render() {
